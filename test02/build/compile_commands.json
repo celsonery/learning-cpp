@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/celso/Devel/projetos/learning/c++/test02/build",
+  "command": "/bin/x86_64-linux-gnu-g++-8    -g   -std=gnu++14 -o CMakeFiles/test02.dir/main.cpp.o -c /home/celso/Devel/projetos/learning/c++/test02/main.cpp",
+  "file": "/home/celso/Devel/projetos/learning/c++/test02/main.cpp"
+}
+]

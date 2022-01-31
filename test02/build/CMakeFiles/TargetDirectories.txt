@@ -1,0 +1,3 @@
+/home/celso/Devel/projetos/learning/c++/test02/build/CMakeFiles/rebuild_cache.dir
+/home/celso/Devel/projetos/learning/c++/test02/build/CMakeFiles/test02.dir
+/home/celso/Devel/projetos/learning/c++/test02/build/CMakeFiles/edit_cache.dir

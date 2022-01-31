@@ -1,0 +1,13 @@
+/home/celso/opt/apps/clion-2021.2.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/celso/opt/apps/clion-2021.2.3/bin/ninja/linux/ninja -G Ninja /home/celso/Devel/projetos/learning/c++/basic
+-- Configuring done
+CMake Error at CMakeLists.txt:6 (add_executable):
+  Cannot find source file:
+
+    files.cpp
+
+
+CMake Error at CMakeLists.txt:6 (add_executable):
+  No SOURCES given to target: curso
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.
